@@ -108,7 +108,7 @@ button:focus {
 
 body {
     margin: 0;
-    padding: 24px 14px;
+    padding: 0;
     background-color: var(--cream);
     display: flex;
     flex-wrap: wrap;
