@@ -148,10 +148,12 @@ body {
     align-content: center;
 }
 
+.full-width {
+    width: 100%;
+}
 .half-width {
     width: 50%;
 }
-
 .price-container {
     padding: 18px 0;
     display: flex;
@@ -190,6 +192,9 @@ body {
     line-height: 1.6;
 }
 
+.fs-36 {
+    font-size: 36px;
+}
 
 @media (min-width: 1440px) {
 
